@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Contribution Snake
+## GitHub Contribution
 
 <p align="center">
   <picture>
